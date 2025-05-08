@@ -19,3 +19,6 @@ Um aplicativo mobile simples desenvolvido em **React Native** com **Expo**, exib
 ```bash
 git clone https://github.com/SeuUsuario/Cards.git
 cd Cards
+```
+## Telas 
+![image](https://github.com/user-attachments/assets/ad5fd9bd-6d00-4c1c-a64a-c65258b7e175)

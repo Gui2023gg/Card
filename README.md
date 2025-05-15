@@ -21,12 +21,12 @@ git clone https://github.com/SeuUsuario/Cards.git
 cd Cards
 ```
 ## Telas 
-- ![image](https://github.com/user-attachments/assets/ad5fd9bd-6d00-4c1c-a64a-c65258b7e175)
-- ![image](https://github.com/user-attachments/assets/b2eb99a5-8388-4a8d-8b3b-155bb51f7e97)
-- ![image](https://github.com/user-attachments/assets/1ab6b76f-bc0d-42c0-8239-82f1e7ceca4b)
-- ![image](https://github.com/user-attachments/assets/f513225f-bb8f-440c-983b-88dcc42030b5)
-- ![image](https://github.com/user-attachments/assets/2542ffc4-bd11-4377-8ec6-73198761a7de)
-- 
+ ![image](https://github.com/user-attachments/assets/ad5fd9bd-6d00-4c1c-a64a-c65258b7e175)
+ ![image](https://github.com/user-attachments/assets/b2eb99a5-8388-4a8d-8b3b-155bb51f7e97)
+ ![image](https://github.com/user-attachments/assets/1ab6b76f-bc0d-42c0-8239-82f1e7ceca4b)
+ ![image](https://github.com/user-attachments/assets/f513225f-bb8f-440c-983b-88dcc42030b5)
+ ![image](https://github.com/user-attachments/assets/2542ffc4-bd11-4377-8ec6-73198761a7de)
+ 
 
 
 
